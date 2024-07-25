@@ -3,12 +3,6 @@
 开发环境：`Virsual Studio 2022`
 
 演示视频：
-
-
-
-Uploading 7月25日.mp4…
-
-
 <video src="video/7月25日.mp4"></video>
 
 
