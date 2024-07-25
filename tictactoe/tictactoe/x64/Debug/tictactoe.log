@@ -1,0 +1,12 @@
+﻿  源.cpp
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(76,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(76,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(81,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(81,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(81,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(81,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(82,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(82,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(82,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\resource\VsPro\tictactoe\tictactoe\源.cpp(82,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  tictactoe.vcxproj -> D:\resource\VsPro\tictactoe\tictactoe\x64\Debug\tictactoe.exe
